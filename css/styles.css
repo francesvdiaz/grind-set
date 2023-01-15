@@ -1,0 +1,17 @@
+.flashy   {
+  color: red;
+  font-style: italic;
+}
+
+h4    {
+  color: grey;
+  font-weight: 300;
+}
+
+p   {
+  color: rgb(242, 242, 242);
+}
+
+#Best   {
+  color: blue;
+}
