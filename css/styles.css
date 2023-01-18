@@ -1,6 +1,7 @@
 .flashy   {
   color: red;
   font-style: italic;
+  font-size: 1000x;
 }
 
 h4    {
@@ -13,5 +14,6 @@ p   {
 }
 
 #Best   {
-  color: blue;
+  color: rgb(136, 0, 210);
 }
+
