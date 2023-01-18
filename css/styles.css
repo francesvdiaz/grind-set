@@ -13,5 +13,15 @@ p   {
 }
 
 #Best   {
-  color: blue;
+  color: rgb(143, 0, 210);
+}
+body  {
+  margin: 0;
+  padding: 0;
+  background: black;
+  color: white;
+  text-align: center;
+  font-size: large;
+  font-variant: small-caps;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
