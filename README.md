@@ -29,7 +29,7 @@ There are currently no known bugs, phew.
 ## License:
 No license, yet! If you have any questions, email me at: vfrances.ww@gmail.com
 
-##Github Page Link
+## Github Page Link
 Check it out! https://francesvdiaz.github.io/grind-set/
 
 *Copyright(c)_1/09/2022_Frances-Ojeda-Diaz_*
