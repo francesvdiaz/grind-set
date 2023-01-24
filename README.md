@@ -16,7 +16,7 @@ I made a flyer into a website with the idea of it being interactive in the futur
 4. Open your terminal on your computer
 5. Go to your desktop. Do this by entering $ cd ~/desktop
 6. Enter $ git clone https://github.com/francesvdiaz/grind-set
-7. Now go to the portfolio directory you just made by entering $ cd grind-set
+7. Now go to the project directory you just made by entering $ cd grind-set
 8. Now enter $ open .
 9. Click on file in file finder and open in vscode by right clicking it.
 10. Now you're looking at my code!
