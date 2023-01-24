@@ -17,11 +17,11 @@ I made a flyer into a website with the idea of it being interactive in the futur
 5. Go to your desktop. Do this by entering $ cd ~/desktop
 6. Enter $ git clone https://github.com/francesvdiaz/grind-set
 7. Now go to the project directory you just made by entering $ cd grind-set
-8. Now enter $ open .
-9. Click on file in file finder and open in vscode by right clicking it.
+8. Now enter $ open . 
+9. Click on file in file finder and open in vscode by right clicking it and choosing that option
 10. Now you're looking at my code!
-11. Open the index.html doc on a web browser by right clicking it and choosing open in [browser you use].
-12. Scroll, scroll, look at the colors, text and image.
+11. Open the index.html doc on in a web browser browser by right clicking it and choosing open in [browser you use]
+12. Scroll, scroll, look at the colors, text and image
 
 ## Known Bugs:
 There are currently no known bugs, phew.
